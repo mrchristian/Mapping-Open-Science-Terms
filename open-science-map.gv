@@ -1,0 +1,224 @@
+digraph G {
+ graph [
+rankdir = "LR"
+];
+node [
+fontsize = "16"
+shape = "ellipse"
+];
+edge [
+];
+"Open Science"->"Terms (unsorted)"->
+
+"Book sprints",
+"Collaborative platforms",
+"Crowd funding",
+"Crowd sourcing",
+"Curricula",
+"Data management plan",
+"Data mining",
+"DOIs",
+"Federated media",
+"Hybridity",
+"Impact factors",
+"Knowledge transfer",
+"Long term preservation",
+"Machine readability",
+"Maker culture (e.g. engineering)",
+"Metadata standards",
+"Mode 1 and 2 science,  - Open Science?",
+"New software and services methods",
+"Non-textual materials",
+"Open archives",
+"Open culture",
+"Open license",
+"Open peer review",
+"Open research methods",
+"Open science training",
+"Patent non-aggression (Open Innovation Network - OIN)",
+"Persistent identifiers",
+"Personal knowledge management",
+"Pirate and shadow libraries",
+"Policies",
+"Principles and guides for open science",
+"Repositories",
+"Reproducible research",
+"Research Infrastructure lifecycles",
+"Research workflows",
+"Scholarly communication",
+"Scholarly publishing",
+"Science 2.0",
+"Science commons e.g. Human Genome Project",
+"Semantic vocabularies",
+"Software and IT development",
+"Taxonomies",
+"Technology life cycles",
+"Visual analytics"
+
+"Open Science"->"Technology"->
+
+"Application programming interface (API)",
+"Blockchains",
+"Concurrent versions system (CVS)",
+"Content-addressable storage",
+"Continuous integration",
+"Cryptographic IDs",
+"Validation",
+"Virtualization"
+
+"Open Science"->"Technology methods"->
+
+"Agile / SCRUM",
+"Design research",
+"DevOps",
+"Service design",
+"UX / UI (user experience, user interface design)"
+
+"Open Science"->"Infrastructure"->
+
+"APIs",
+"Bibliographic databases",
+"Bibliographic indexing systems",
+"Citation databases",
+"Content repositories",
+"Encryption",
+"Infrastructure coordination bodies e.g. W3C",
+"Internet",
+"Libraries",
+"Mega journals – e.g. PeerJ, eLifeScience, PLOS1",
+"Metrics platforms and data",
+"MOOCs",
+"Multi-format journal platforms – e.g. PeerJ, eLifeScience, PLOS1",
+"Ontologies and controlled vocabularies",
+"Open Citations",
+"Open Data platforms e.g. Figshare",
+"Open hardware",
+"Open knowledge",
+"Open Source software",
+"Open Standards",
+"Pre-print repositories",
+"Privacy software",
+"Publication repositories",
+"Publishing systems",
+"Search indexes and search platforms",
+"Software repositories",
+"Technological autonomy",
+"Virtual Research Environments (VREs)",
+"Visualization software",
+"Web",
+"Wikimedia infrastructure"
+
+"Open Science"->"Missing infrastructure?"->
+
+"Anonymized library usage data",
+"Federated publicly accountable scholarly search engine",
+"Federated or distributed Wikipedia",
+"Open annotation",
+"Open Web index",
+"Public scholarly social media platform",
+"Public Web archive, national or international",
+"Reliable multi-format publishing technology"
+
+"Open Science"->"Disciplines / fields"->
+
+"Altmetrics",
+"Big data",
+"Blockchain and open science",
+"Citizen science",
+"Computer science",
+"Content Mining",
+"CoScience, collaborative science",
+"Data science",
+"Data visualization",
+"Digital humanities",
+"Digital methods and practices",
+"FabLabs",
+"Free and open source software",
+"Hybrid Publishing",
+"Information literacy",
+"Information science",
+"Library 2.0",
+"Library and information systems",
+"Linked open data",
+"MOOCs",
+"Online learning platforms",
+"Open access",
+"Open curricula",
+"Open data",
+"Open education resources",
+"Open hardware",
+"Open networks",
+"Open pedagogy",
+"Open Science Grid, distributed computation and storage",
+"Open science, open scholarship",
+"Open spectrum",
+"Open standards",
+"Research data management",
+"Research infrastructure RnD - Current research information systems (CRIS)",
+"Researcher data management",
+"Science administration",
+"Scientific Knowledge Engineering",
+"Smart city",
+"Smart factory 4.0, industry 4.0",
+"Virtual research environments"
+
+"Open Science"->"Organizations"->
+
+"Academics",
+"Academies of science",
+"Amateur societies",
+"Chambers of commerce",
+"Charities",
+"Commercial ‘knowledge transfer’ partners",
+"Commercial suppliers to academia",
+"Consortia",
+"Funders",
+"GLAM",
+"Government",
+"Industry sector societies",
+"Industry, private companies",
+"Journals",
+"Labs",
+"Learned societies",
+"News media",
+"NGOs",
+"Private research organizations",
+"Public libraries",
+"Publics",
+"Publishers commercial",
+"Publishers non-profit",
+"Research groups",
+"Research institutes",
+"Research libraries",
+"Research universities",
+"Social enterprises",
+"Societies",
+"Software programmers",
+"Standards bodies",
+"Startup sector",
+"Tech sector",
+"Think tanks",
+"University presses",
+"University research administrators",
+"University students and alumni",
+"Users of scientific content and facilities"
+
+"Open Science"->"Open Science methodologies"->
+
+"Book sprints",
+"Code sprints",
+"Fablabs",
+"Free and Open Source",
+"Hackdays, hackathons",
+"Open innovation",
+"Stack exchange",
+"Stakeholders",
+"Research community",
+"Not Open Science",
+"Open Science history"
+
+"Open Science"->"Stakeholders"
+"Open Science"->"Research community"
+"Open Science"->"Not Open Science"
+"Open Science"->"Open Science history"
+}

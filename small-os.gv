@@ -1,0 +1,23 @@
+digraph G {
+
+ graph [
+rankdir = "LR"
+];
+node [
+fontsize = "16"
+shape = "ellipse"
+];
+edge [
+];
+"Open Science"->"Technology"
+"Open Science"->"Technology methods"
+"Open Science"->"Infrastructure"
+"Open Science"->"Missing infrastructure?"
+"Open Science"->"Disciplines / fields"
+"Open Science"->"Organizations"
+"Open Science"->"Open Science methodologies"
+"Open Science"->"Stakeholders"
+"Open Science"->new
+"Open Science"->"Not Open Science"
+"Open Science"->"Open Science history"
+}
