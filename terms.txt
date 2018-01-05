@@ -48,6 +48,9 @@ Science advocacy
 Research Excellence Framework (REF)
 Market support / No market support
 Commodity / non-commodity
+Public benefit
+Learning analytics
+Knowledge transfer
 
 # Technologies
 
