@@ -68,6 +68,7 @@ CNC
 3D Printing
 Mini-computers and DIY electronics, e.g. RaspberryPi
 Caching and Content Distribution Networks (CDNs)
+Linked Open Data - tech stack
 
 # Technology development knowledge production methods
 
