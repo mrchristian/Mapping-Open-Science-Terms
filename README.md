@@ -1,8 +1,6 @@
 # Mapping-Open-Science-Terms
 An examination of Open Science by looking at terms and categories in use
 
-These are the [terms](terms.txt) in a plain text file 
-
 ## Process
 The mapping will be done in short iterative rounds of work.
 
@@ -15,3 +13,10 @@ The sorted terms can then be examined for alignment to ontologies such as in VIV
 For each term a number of example instances will be collected, like - websites, projects, or institutions etc. – these would then be used in consultations with partners to validate the terms being added.
 
 The collected Open Science taxonomy can then be queried, visualizations made, compared and used with other Open Science mapping data sources, or used in workshops. Examples uses would be to look at quality levels of technical infrastructures in the different areas being mapped, or levels of training and policy guidance.
+
+## Visualisations
+To be done - Test Visualisations in Graphvis and D3
+
+Graphvis http://graphviz.org/
+
+D3 JavaScript lib http://christopheviau.com/d3list/gallery.html

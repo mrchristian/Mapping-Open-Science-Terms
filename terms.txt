@@ -1,130 +1,6 @@
-# Terms
+1. Researchers
 
-Book sprints
-Collaborative platforms
-Crowd funding
-Crowd sourcing
-Curricula
-Data management plan
-Data mining
-DOIs
-Federated media
-Hybridity
-Impact factors
-Knowledge transfer
-Long term preservation
-Machine readability
-Maker culture (e.g. engineering)
-Metadata standards
-Mode 1 and 2 science,  - Open Science?
-New software and services methods
-Non-textual materials
-Open archives
-Open culture
-Open license
-Open peer review
-Open research methods
-Open science training
-Patent non-aggression (Open Innovation Network - OIN)
-Persistent identifiers
-Personal knowledge management
-Pirate and shadow libraries
-Policies
-Principles and guides for open science
-Repositories
-Reproducible research
-Research Infrastructure lifecycles
-Research workflows
-Scholarly communication
-Scholarly publishing
-Science 2.0
-Science commons e.g. Human Genome Project
-Semantic vocabularies
-Software and IT development
-Taxonomies
-Technology life cycles
-Visual analytics
-Science advocacy
-Research Excellence Framework (REF)
-Market support / No market support
-Commodity / non-commodity
-Public benefit
-Learning analytics
-Knowledge transfer
-
-# Technologies
-
-Application programming interface (API)
-Blockchains
-Concurrent versions system (CVS)
-Content-addressable storage
-Continuous integration
-Cryptographic IDs
-Validation
-Virtualization
-Probabilistic topic modelling
-VR/Augmented Reality
-CNC
-3D Printing
-Mini-computers and DIY electronics, e.g. RaspberryPi
-Caching and Content Distribution Networks (CDNs)
-Linked Open Data - tech stack
-
-# Technology development knowledge production methods
-
-Agile / SCRUM
-Design research
-DevOps
-Service design
-UX / UI (user experience, user interface design)
-
-# Research Infrastructure (technologies / platforms)
-
-APIs
-Bibliographic databases
-Bibliographic indexing systems
-Citation databases
-Content repositories
-Encryption
-Infrastructure coordination bodies e.g. W3C
-Internet
-Libraries
-Mega journals – e.g. PeerJ, eLifeScience, PLOS1
-Metrics platforms and data
-MOOCs
-Multi-format journal platforms – e.g. PeerJ, eLifeScience, PLOS1
-Ontologies and controlled vocabularies
-Open Citations
-Open Data platforms e.g. Figshare
-Open hardware
-Open knowledge
-Open Source software
-Open Standards
-Pre-print repositories
-Privacy software
-Publication repositories
-Publishing systems
-Search indexes and search platforms
-Software repositories
-Technological autonomy
-Virtual Research Environments (VREs)
-Visualization software
-Web
-Wikimedia infrastructure
-Open Science Graph
-
-# Missing (or incomplete) infrastructure?
-
-Anonymized library usage data
-Federated publicly accountable scholarly search engine
-Federated or distributed Wikipedia
-Open annotation
-Open Web index
-Public scholarly social media platform
-Public Web archive, national or international
-Reliable multi-format publishing technology
-
-# Disciplines / fields
+2. Fields
 
 Altmetrics
 Big data
@@ -167,8 +43,132 @@ Smart city
 Smart factory 4.0, industry 4.0
 Virtual research environments
 IOT
+Learning analytics
+Visual analytics
+Data mining
+Maker culture (e.g. engineering)
+Non-textual materials
+Open archives
+Open culture
+Open license
+Open peer review
+Open research methods
+Open science training
+Scholarly publishing
+Science 2.0
 
-# Types of organization
+3. Methods
+
+3.1 Technology development methods
+
+Agile / SCRUM
+Design research
+DevOps
+Service design
+UX / UI (user experience, user interface design)
+
+3.2 Open scholarship methods
+
+Book sprints
+Code sprints
+Fablabs
+Free and Open Source
+Hackdays, hackathons
+Open innovation
+Stack exchange
+
+3.3 Academic methods
+
+Knowledge transfer
+Reproducible research
+
+3.4 Startup methods
+
+Crowd funding
+
+4. Scholarly Infrastructure
+
+4.1 Existing Infrastructures
+
+Market support / No market support
+Science commons e.g. Human Genome Project
+Research Infrastructure lifecycles
+Research workflows
+Scholarly communication
+Repositories
+Pirate and shadow libraries
+Long term preservation
+Federated media
+APIs
+Bibliographic databases
+Bibliographic indexing systems
+Citation databases
+Content repositories
+Curricula
+Encryption
+Infrastructure coordination bodies e.g. W3C
+Internet
+Libraries
+Mega journals – e.g. PeerJ, eLifeScience, PLOS1
+Metrics platforms and data
+MOOCs
+Multi-format journal platforms – e.g. PeerJ, eLifeScience, PLOS1
+Ontologies and controlled vocabularies
+Open Citations
+Open Data platforms e.g. Figshare
+Open hardware
+Open knowledge
+Open Source software
+Open Standards
+Pre-print repositories
+Privacy software
+Publication repositories
+Publishing systems
+Search indexes and search platforms
+Software repositories
+Technological autonomy
+Virtual Research Environments (VREs)
+Visualization software
+Web
+Wikimedia infrastructure
+Open Science Graph
+
+4.2 Missing infrastructure
+
+Anonymized library usage data
+Federated publicly accountable scholarly search engine
+Federated or distributed Wikipedia
+Open annotation
+Open Web index
+Public scholarly social media platform
+Public Web archive, national or international
+Reliable multi-format publishing technology
+
+5. Technology
+
+Technology life cycles
+Semantic vocabularies
+Persistent identifiers
+Metadata standards
+Machine readability
+Application programming interface (API)
+Blockchains
+Concurrent versions system (CVS)
+Content-addressable storage
+Continuous integration
+Cryptographic IDs
+DOIs
+Validation
+Virtualization
+Probabilistic topic modelling
+VR/Augmented Reality
+CNC
+3D Printing
+Mini-computers and DIY electronics
+Caching and Content Distribution Networks (CDNs)
+Linked Open Data - tech stack
+
+6. Stakeholders
 
 Academics
 Academies of science
@@ -209,35 +209,49 @@ University research administrators
 University students and alumni
 Users of scientific content and facilities
 
-# Open Science methodologies and software development methods?
+7. Issues / problems in science systems
 
-Book sprints
-Code sprints
-Fablabs
-Free and Open Source
-Hackdays, hackathons
-Open innovation
-Stack exchange
-
-# Stakeholders
-# Research community members
-# Not Open Science
-# History of Open Science and information revolutions
-# Changing practice of research
-
-Information overload
-
-# Errors and imbalances in science systems, and from external forces
-
-Problems in existing systems
+7.1 Existing systems issues
 
 Discrimination by gender
 Discrimination by race
 Discrimination by class
+Discrimination by sexuality
 Exclusion of Global South
+Personal knowledge management
 
-Problems in new or proposed Open Science systems
+7.2 New Open Science issues
 
-External
+Information overload
+Commercial interests
+
+8. Agreements Policies
+
+Data management plan
+Patent non-aggression (Open Innovation Network - OIN)
+Principles and guides for open science
+
+9. Ideas - histories, epistemology, philosophy
+
+Hybridity
+Mode 1 and 2 science - Open Science?
+
+10. Knowledge / information / data
+
+Impact factors
+Research Excellence Framework (REF)
+
+11. Platform types
+
+Collaborative platforms
+Taxonomies
+Commodity / non-commodity
+
+12. Citizen science
+
+Crowd sourcing
+Science advocacy
+Public benefit
 
 
+--
