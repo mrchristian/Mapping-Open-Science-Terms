@@ -1,6 +1,15 @@
 1. Researchers
 
-2. Fields
+Senior
+Mid-level
+Junior
+Citizen scientists
+
+2. Research activities
+
+Boyer's model of scholarship
+
+3. Fields
 
 Altmetrics
 Big data
@@ -57,9 +66,9 @@ Open science training
 Scholarly publishing
 Science 2.0
 
-3. Methods
+4. Methods
 
-3.1 Technology development methods
+4.1 Technology development methods
 
 Agile / SCRUM
 Design research
@@ -67,7 +76,7 @@ DevOps
 Service design
 UX / UI (user experience, user interface design)
 
-3.2 Open scholarship methods
+4.2 Open scholarship methods
 
 Book sprints
 Code sprints
@@ -77,18 +86,18 @@ Hackdays, hackathons
 Open innovation
 Stack exchange
 
-3.3 Academic methods
+4.3 Academic methods
 
 Knowledge transfer
 Reproducible research
 
-3.4 Startup methods
+4.4 Startup methods
 
 Crowd funding
 
-4. Scholarly Infrastructure
+5. Scholarly Infrastructure
 
-4.1 Existing Infrastructures
+5.1 Existing Infrastructures
 
 Market support / No market support
 Science commons e.g. Human Genome Project
@@ -133,7 +142,7 @@ Web
 Wikimedia infrastructure
 Open Science Graph
 
-4.2 Missing infrastructure
+5.2 Missing infrastructure
 
 Anonymized library usage data
 Federated publicly accountable scholarly search engine
@@ -144,7 +153,7 @@ Public scholarly social media platform
 Public Web archive, national or international
 Reliable multi-format publishing technology
 
-5. Technology
+6. Technology
 
 Technology life cycles
 Semantic vocabularies
@@ -168,7 +177,7 @@ Mini-computers and DIY electronics
 Caching and Content Distribution Networks (CDNs)
 Linked Open Data - tech stack
 
-6. Stakeholders
+7. Stakeholders
 
 Academics
 Academies of science
@@ -209,9 +218,9 @@ University research administrators
 University students and alumni
 Users of scientific content and facilities
 
-7. Issues / problems in science systems
+8. Issues / problems in science systems
 
-7.1 Existing systems issues
+8.1 Existing systems issues
 
 Discrimination by gender
 Discrimination by race
@@ -220,34 +229,34 @@ Discrimination by sexuality
 Exclusion of Global South
 Personal knowledge management
 
-7.2 New Open Science issues
+8.2 New Open Science issues
 
 Information overload
 Commercial interests
 
-8. Agreements Policies
+9. Agreements Policies
 
 Data management plan
 Patent non-aggression (Open Innovation Network - OIN)
 Principles and guides for open science
 
-9. Ideas - histories, epistemology, philosophy
+10. Ideas - histories, epistemology, philosophy
 
 Hybridity
 Mode 1 and 2 science - Open Science?
 
-10. Knowledge / information / data
+11. Knowledge / information / data
 
 Impact factors
 Research Excellence Framework (REF)
 
-11. Platform types
+12. Platform types
 
 Collaborative platforms
 Taxonomies
 Commodity / non-commodity
 
-12. Citizen science
+13. Citizen science
 
 Crowd sourcing
 Science advocacy
