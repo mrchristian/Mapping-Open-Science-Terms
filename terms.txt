@@ -234,21 +234,28 @@ Personal knowledge management
 Information overload
 Commercial interests
 
-9. Agreements Policies
+9. Agreements / Policies
 
 Data management plan
 Patent non-aggression (Open Innovation Network - OIN)
 Principles and guides for open science
+Contributor agreements
+Open Access Policy
+Open Source Software Licensing
+Content Licensing
+Tendering policies for Free and Open Source compliance
 
 10. Ideas - histories, epistemology, philosophy
 
 Hybridity
 Mode 1 and 2 science - Open Science?
+The Open Society
 
 11. Knowledge / information / data
 
 Impact factors
 Research Excellence Framework (REF)
+Collaborative knowledge
 
 12. Platform types
 
