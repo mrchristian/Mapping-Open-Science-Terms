@@ -104,7 +104,7 @@ Citation databases
 Content repositories
 Curricula
 Encryption
-Infrastructure coordination bodies e.g. W3C
+Infrastructure coordination bodies (e.g. W3C)
 Internet
 Libraries
 Mega journals (e.g. PeerJ, eLifeScience, PLOS ONE)
@@ -225,7 +225,7 @@ Open Access Policy
 Open Source Software Licensing
 Content Licensing
 Tendering policies for Free and Open Source compliance
-10. Ideas - histories, epistemology, philosophy
+10. Ideas - histories / epistemology / philosophy
 Hybridity
 Mode 1 and 2 science - Open Science?
 The Open Society
