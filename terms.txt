@@ -1,107 +1,96 @@
 1. Researchers
-
 Senior
 Mid-level
 Junior
 Citizen scientist
-
 2. Research activities
-
 Boyer's model of scholarship
-
 3. Fields
-
 Altmetrics
-Big data
-Blockchain and open science
-Citizen science
+Big Data
+Blockchains
+Citizen Science
 Computer science
-Content Mining
-CoScience, collaborative science
+Content mining
+CoScience
 Data science
 Data visualization
-Digital humanities
+Digital Humanities
 Digital methods and practices
 FabLabs
-Free and open source software
-Hybrid Publishing
+Free and Open Source Software
+Hybrid publishing
 Information literacy
 Information science
 Library 2.0
-Library and information systems
+Library and Information Science (LIS)
 Linked open data
 MOOCs
 Online learning platforms
-Open access
+Open Access
 Open curricula
 Open data
-Open education resources
+Open Education Resources (OER)
 Open hardware
 Open networks
 Open pedagogy
-Open Science Grid, distributed computation and storage
-Open science, open scholarship
+Open Science Grid
+Open science
+Open scholarship
 Open spectrum
 Open standards
 Research data management
-Research infrastructure RnD - Current research information systems (CRIS)
 Researcher data management
+Current Research Information Systems (CRIS)
 Science administration
 Scientific Knowledge Engineering
 Smart city
-Smart factory 4.0, industry 4.0
+Smart factory 4.0
+Industry 4.0
 Virtual research environments
-IOT
+Internet of Things (IOT)
 Learning analytics
 Visual analytics
 Data mining
-Maker culture (e.g. engineering)
+Maker culture
 Non-textual materials
 Open archives
 Open culture
-Open license
+Open licensing
 Open peer review
 Open research methods
 Open science training
 Scholarly publishing
 Science 2.0
-
 4. Methods
-
 4.1 Technology development methods
-
 Agile / SCRUM
-Design research
+Design Research
 DevOps
-Service design
-UX / UI (user experience, user interface design)
-
+Service Design
+User experience design (UX)
+User interface design (UI)
+Free and Open Source Software
 4.2 Open scholarship methods
-
 Book sprints
 Code sprints
-Fablabs
-Free and Open Source
-Hackdays, hackathons
-Open innovation
-Stack exchange
-
+FabLabs
 4.3 Academic methods
-
 Knowledge transfer
 Reproducible research
-
 4.4 Startup methods
-
 Crowd funding
-
+Hack competitions
+Open innovation
+Stack exchange
+4.4 Hacker Culture / Free culture
+Hackdays
 5. Scholarly Infrastructure
-
 5.1 Existing Infrastructures
-
-Market support / No market support
-Science commons e.g. Human Genome Project
-Research Infrastructure lifecycles
+Market support
+No market support
+Science commons (e.g. Human Genome Project)
+Research infrastructure lifecycles
 Research workflows
 Scholarly communication
 Repositories
@@ -118,43 +107,40 @@ Encryption
 Infrastructure coordination bodies e.g. W3C
 Internet
 Libraries
-Mega journals – e.g. PeerJ, eLifeScience, PLOS1
+Mega journals (e.g. PeerJ, eLifeScience, PLOS ONE)
 Metrics platforms and data
 MOOCs
-Multi-format journal platforms – e.g. PeerJ, eLifeScience, PLOS1
-Ontologies and controlled vocabularies
-Open Citations
-Open Data platforms e.g. Figshare
+Multi-format journal platforms (e.g. PeerJ, eLifeScience)
+Ontologies
+Controlled vocabularies
+Open citations
+Open data platforms (e.g. Figshare)
 Open hardware
 Open knowledge
-Open Source software
-Open Standards
+Free and Open Source Software
+Open standards
 Pre-print repositories
 Privacy software
 Publication repositories
 Publishing systems
-Search indexes and search platforms
+Search indexes
+Search platforms
 Software repositories
-Technological autonomy
 Virtual Research Environments (VREs)
 Visualization software
 Web
 Wikimedia infrastructure
 Open Science Graph
-
 5.2 Missing infrastructure
-
 Anonymized library usage data
 Federated publicly accountable scholarly search engine
 Federated or distributed Wikipedia
 Open annotation
 Open Web index
 Public scholarly social media platform
-Public Web archive, national or international
-Reliable multi-format publishing technology
-
+Public Web archives, national or international (credible)
+Multi-format publishing technology (reliable)
 6. Technology
-
 Technology life cycles
 Semantic vocabularies
 Persistent identifiers
@@ -170,15 +156,14 @@ DOIs
 Validation
 Virtualization
 Probabilistic topic modelling
-VR/Augmented Reality
-CNC
+Computer numerical control (CNC) (e.g. manufacturing lathes)
+Robotics
 3D Printing
 Mini-computers and DIY electronics
 Caching and Content Distribution Networks (CDNs)
-Linked Open Data - tech stack
-
+Linked Open Data, tech stack
+Open tech stacks
 7. Stakeholders
-
 Academics
 Academies of science
 Amateur societies
@@ -188,8 +173,9 @@ Commercial ‘knowledge transfer’ partners
 Commercial suppliers to academia
 Consortia
 Funders
-GLAM
+Galleries Libraries Archives and Museums (GLAM)
 Government
+Political parties
 Industry sector societies
 Industry, private companies
 Journals
@@ -199,6 +185,8 @@ News media
 NGOs
 Private research organizations
 Public libraries
+libraries
+Library members
 Publics
 Publishers commercial
 Publishers non-profit
@@ -207,7 +195,7 @@ Research institutes
 Research libraries
 Research universities
 Social enterprises
-Societies
+Societies (e.g archeology, library etc.)
 Software programmers
 Standards bodies
 Startup sector
@@ -217,57 +205,41 @@ University presses
 University research administrators
 University students and alumni
 Users of scientific content and facilities
-
 8. Issues / problems in science systems
-
 8.1 Existing systems issues
-
 Discrimination by gender
 Discrimination by race
 Discrimination by class
 Discrimination by sexuality
 Exclusion of Global South
 Personal knowledge management
-
 8.2 New Open Science issues
-
 Information overload
 Commercial interests
-
 9. Agreements / Policies
-
 Data management plan
-Patent non-aggression (Open Innovation Network - OIN)
+Patent non-aggression (Open Innovation Network (OIN))
 Principles and guides for open science
 Contributor agreements
 Open Access Policy
 Open Source Software Licensing
 Content Licensing
 Tendering policies for Free and Open Source compliance
-
 10. Ideas - histories, epistemology, philosophy
-
 Hybridity
 Mode 1 and 2 science - Open Science?
 The Open Society
-
+Technological autonomy (e.g. Digital City, Barcelona)
+Distributed Systems
 11. Knowledge / information / data
-
 Impact factors
 Research Excellence Framework (REF)
 Collaborative knowledge
-
 12. Platform types
-
 Collaborative platforms
 Taxonomies
-Commodity / non-commodity
-
+Commodity vs. non-viable-direct-commodity (e.g. academic publications vs. email)
 13. Citizen science
-
 Crowd sourcing
 Science advocacy
 Public benefit
-
-
---
