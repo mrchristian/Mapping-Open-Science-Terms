@@ -131,6 +131,7 @@ Visualization software
 Web
 Wikimedia infrastructure
 Open Science Graph
+Shared Open Infrastructure
 5.2 Missing infrastructure
 Anonymized library usage data
 Federated publicly accountable scholarly search engine
@@ -225,6 +226,7 @@ Open Access Policy
 Open Source Software Licensing
 Content Licensing
 Tendering policies for Free and Open Source compliance
+Principles for Share Open Infrastructure
 10. Ideas - histories / epistemology / philosophy
 Hybridity
 Mode 1 and 2 science - Open Science?
