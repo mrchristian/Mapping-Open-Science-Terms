@@ -5,6 +5,7 @@ Junior
 Citizen scientist
 2. Research activities
 Boyer's model of scholarship
+preregistrations and registered reports
 3. Fields
 Altmetrics
 Big Data
