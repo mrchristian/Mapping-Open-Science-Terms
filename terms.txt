@@ -143,6 +143,7 @@ Public scholarly social media platform
 Public Web archives, national or international (credible)
 Multi-format publishing technology (reliable)
 6. Technology
+P2P
 Technology life cycles
 Semantic vocabularies
 Persistent identifiers
