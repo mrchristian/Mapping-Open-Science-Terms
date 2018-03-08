@@ -239,6 +239,7 @@ Distributed Systems
 Impact factors
 Research Excellence Framework (REF)
 Collaborative knowledge
+Software citation
 12. Platform types
 Collaborative platforms
 Taxonomies
