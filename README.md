@@ -1,4 +1,6 @@
 # Mapping-Open-Science-Terms
+
+[![Join the chat at https://gitter.im/open_science/Lobby](https://badges.gitter.im/open_science/Lobby.svg)](https://gitter.im/open_science/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 An examination of Open Science by looking at terms and categories in use
 
 ## Process
