@@ -240,6 +240,7 @@ Impact factors
 Research Excellence Framework (REF)
 Collaborative knowledge
 Software citation
+Software papers
 12. Platform types
 Collaborative platforms
 Taxonomies
